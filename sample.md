@@ -1,4 +1,5 @@
-```@startuml
+```uml
+@startuml
 opt アカウント未登録
 ユーザー -> webサーバー:ユーザー登録
 webサーバー -> DBサーバー:ユーザー登録
